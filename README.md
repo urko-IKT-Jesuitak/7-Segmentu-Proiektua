@@ -28,7 +28,7 @@ Konexioak honela egin ditugu gure kodean:
 Hemen ikus dezakezue gure katu mekanikoak gainbegiratutako konexioa:
 
 <p align="center">
-  <img src="hardware/konexioa.jpg" alt="Hardware Konexioa - 7seg" width="80%">
+  <img src="konexioa.jpg" alt="Hardware Konexioa - 7seg" width="80%">
 </p>
 
 
