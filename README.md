@@ -11,7 +11,7 @@ Proiektu honek **7-segmentuko pantailen** munduan murgiltzen gaituzte. Teoria os
 2.  [**Teoria eta Funtzionamendua**](7seg_teoria_eta_kalkuluak.md#2-teoria-eta-funtzionamendua)
 3.  [**Erresistentzien Kalkulua (Ohm-en Legea)**](7seg_teoria_eta_kalkuluak.md#3-erresistentzien-kalkulua-ohm-en-legea)
 4.  [**Hardware Konexioa**](#hardware-konexioa)
-5.  [**Arduino Kodearen Azalpena**](7seg_kodea.ino)
+5.  [**Arduino Kodearen Azalpena**](7seg_kodea_azalpena.md)
 
 ## 🔩 Beharrezko Materiala
 * **Arduino Mega** ⚙️
