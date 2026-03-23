@@ -1,7 +1,7 @@
 # ⚙️ 7-Segmentu Pantaila: Teoria eta Praktika | Jesuitak Indautxu
 
 <p align="center">
-  <img src="ZURE_HEADER_IRUDIA_HEMEN.png" alt="7-Segmentuak Teoria Steampunk Header" width="100%">
+  <img src="header.png" alt="7-Segmentuak Teoria Steampunk Header" width="100%">
 </p>
 
 Proiektu honek **7-segmentuko pantailen** munduan murgiltzen gaituzte. Teoria osoa, erresistentzien kalkulua eta Arduino bidezko kontrol praktikoa biltzen ditu. Gure katu mekanikoak gainbegiratuta!
