@@ -1,5 +1,5 @@
 
-```markdown
+
 # 💻 Softwarearen Bihotza: 7-Segmentuak Serial Bidez Kontrolatzen
 
 ## 🗺️ 0. Urratsa: 7-Segmentuko Pantailaren "Anatomia"
