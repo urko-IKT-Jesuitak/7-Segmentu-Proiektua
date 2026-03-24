@@ -8,8 +8,7 @@ Kodean eta ingranaje birtualetan murgildu baino lehen, ezinbestekoa da pantailar
 
 Pantailako LED bakoitza (edo segmentua) letra bati esleituta dago. Goitik hasita eta erlojuaren orratzen norabidean jarraituz, erdikoa azkenerako utziz, hau da antolaketa:
 
-
-
+<img width="216" height="267" alt="image" src="https://github.com/user-attachments/assets/23130470-c06a-444f-952e-92fd6a4abb48"  align="center"/>
 * **a**: Goiko segmentua.
 * **b**: Goiko-eskuineko segmentua.
 * **c**: Beheko-eskuineko segmentua.
