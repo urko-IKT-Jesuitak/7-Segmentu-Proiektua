@@ -24,10 +24,10 @@ Konexioak honela egin ditugu gure kodean:
 * **a** -> Pin 6 | **b** -> Pin 5 | **c** -> Pin 4 | **d** -> Pin 3
 * **e** -> Pin 2 | **f** -> Pin 7 | **g** -> Pin 8
 * **Katodo Komuna** -> **GND**
-* 
+  
 <img width="216" height="267" alt="image" src="https://github.com/user-attachments/assets/f5ab506c-78ef-4b12-b0a4-f18a792d7abf" />
 
-Hemen ikus dezakezue gure katu mekanikoak gainbegiratutako konexioa:
+Hemen ikus dezakezue gure konexioa:
 
 <p align="center">
   <img src="konexioa.JPG" alt="Hardware Konexioa - 7seg" width="80%">
